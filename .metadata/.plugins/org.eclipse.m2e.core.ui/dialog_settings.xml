@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Julia\Desktop\secTurma11"/>
+			<item value="C:\Users\Julia\Desktop\secTurma11\segurançat11Base"/>
+			<item value="C:\Users\Julia\Desktop\seguranca11Base\segurançat11Base"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="JuSeguranca"/>
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
